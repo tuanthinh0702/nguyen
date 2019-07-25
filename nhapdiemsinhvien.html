@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>First sample</title>
+</head>
+<body>
+<script>
+let vatly = prompt("nhập điểm vật lý");
+let hoahoc = prompt("nhập điểm hóa học");
+let sinhhoc = prompt("nhập điểm sinh học");
+let diemvatly = parseInt(vatly);
+let diemhoahoc = parseInt(hoahoc);
+let diemsinhoc = parseInt(sinhhoc);
+let diemtrungbinh = (diemhoahoc+diemsinhoc+diemvatly)/3;
+let diemtong = diemhoahoc+diemsinhoc+diemvatly;
+document.write("điểm trung bình ="+diemtrungbinh);
+document.write("<br/>");
+document.write("điểm tổng ="+diemtong);
+</script>
+</body>
+</html>
