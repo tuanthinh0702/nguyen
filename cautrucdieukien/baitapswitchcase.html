@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>baitap switch case</title>
+</head>
+<input type="text" id="input">
+<button type="button" onclick="Tinhsongay()">Tính số ngày</button>
+<p id="inra"></p>
+<body>
+<script>
+    function Tinhsongay() {
+        let inputtext = document.getElementById("input").value;
+        switch (inputtext) {
+            case 1:
+            case 3:
+            case 5:
+            case 7:
+            case 8:
+            case 10:
+            case 12:
+                alert("31 ngày ");
+            case 2:
+                alert("28 hoặc 29 ngày");
+            case 4:
+            case 6:
+            case 9:
+            case 11:
+                alert("30 ngày ");
+        }
+        let hienthi = document.getElementById("inra").innerHTML = 'Tháng ' + input.value + ' có: ' + button.onclick.value;
+    }
+</script>
+</body>
+</html>
