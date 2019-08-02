@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c87bd1e3-c843-4a48-9230-e9552d98caea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/cautrucdieukien/may-tinh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cautrucdieukien/maytinh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cautruclap/bangcuuchuong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baitapswitchcase.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chuvihinhtron.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chuyennhietdo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dientichhinhtron.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gg.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nhapdiemsinhvien.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nobita.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quabong.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tinhbmi.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ungdungmaytinh.html" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cautrucdieukien/maytinh.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cautrucdieukien/may-tinh.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/vd/cal.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cautruclap/bangcuuchuong.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/vd/examplecalculator.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/firstsample.html" />
+        <option value="$PROJECT_DIR$/chuyennhietdo.html" />
+        <option value="$PROJECT_DIR$/dientichhinhtron.html" />
+        <option value="$PROJECT_DIR$/sample.html" />
+        <option value="$PROJECT_DIR$/project.html" />
+        <option value="$PROJECT_DIR$/tinhbmi.html" />
+        <option value="$PROJECT_DIR$/gg.html" />
+        <option value="$PROJECT_DIR$/ungdungchuyendoitiente.html" />
+        <option value="$PROJECT_DIR$/baitapswitchcase.html" />
+        <option value="$PROJECT_DIR$/chuvihinhtron.html" />
+        <option value="$PROJECT_DIR$/nhapdiemsinhvien.html" />
+        <option value="$PROJECT_DIR$/ungdungmaytinh.html" />
+        <option value="$PROJECT_DIR$/quabong.html" />
+        <option value="$PROJECT_DIR$/namnhuan.html" />
+        <option value="$PROJECT_DIR$/nobita.html" />
+        <option value="$PROJECT_DIR$/maytinhdongian.html" />
+        <option value="$PROJECT_DIR$/cautrucdieukien/luyentapcautrucdieukien1.html" />
+        <option value="$PROJECT_DIR$/../Bien,kieudulieu,toantu/ungdungmaytinh.html" />
+        <option value="$PROJECT_DIR$/cautrucdieukien/luyentapcautrucdieukien2.html" />
+        <option value="$PROJECT_DIR$/example.html" />
+        <option value="$PROJECT_DIR$/cautrucdieukien/maytinh.html" />
+        <option value="$PROJECT_DIR$/.idea/vd/examplecalculator.html" />
+        <option value="$PROJECT_DIR$/.idea/vd/dowhile.html" />
+        <option value="$PROJECT_DIR$/cautrucdieukien/may-tinh.js" />
+        <option value="$PROJECT_DIR$/.idea/vd/cal.js" />
+        <option value="$PROJECT_DIR$/cautruclap/bangcuuchuong.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/vd/examplecalculator.html" />
+        <option value="$PROJECT_DIR$/.idea/vd/cal.js" />
+        <option value="$PROJECT_DIR$/.idea/vd/dowhile.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="683" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="123" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\User\WebstormProjects\123" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="123" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\User\WebstormProjects\123" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name=".idea" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="123" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\User\WebstormProjects\123" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name=".idea" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="vd" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="123" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\User\WebstormProjects\123" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="cautrucdieukien" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="123" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\User\WebstormProjects\123" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="cautruclap" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="123" type="b2602c69:ProjectViewProjectNode" />
+              <item name="123" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.examplecalculator.html">
+    <configuration name="dowhile.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/123/.idea/vd/dowhile.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="example.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/123/example.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="examplecalculator.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/123/.idea/vd/examplecalculator.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="maytinh.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/123/cautrucdieukien/maytinh.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="may-tinh.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="may-tinh.js" working-dir="$PROJECT_DIR$/cautrucdieukien">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.examplecalculator.html" />
+        <item itemvalue="JavaScript Debug.maytinh.html" />
+        <item itemvalue="Node.js.may-tinh.js" />
+        <item itemvalue="JavaScript Debug.dowhile.html" />
+        <item itemvalue="JavaScript Debug.example.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c87bd1e3-c843-4a48-9230-e9552d98caea" name="Default Changelist" comment="" />
+      <created>1563595235296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563595235296</updated>
+      <workItem from="1563595243218" duration="2618000" />
+      <workItem from="1563614676993" duration="201000" />
+      <workItem from="1563672758939" duration="178000" />
+      <workItem from="1563777036263" duration="7342000" />
+      <workItem from="1563798280390" duration="776000" />
+      <workItem from="1563801778485" duration="3606000" />
+      <workItem from="1563806234530" duration="767000" />
+      <workItem from="1563854252196" duration="6414000" />
+      <workItem from="1563901195469" duration="657000" />
+      <workItem from="1563933191814" duration="14078000" />
+      <workItem from="1564017538349" duration="10076000" />
+      <workItem from="1564041402368" duration="1729000" />
+      <workItem from="1564050734400" duration="6364000" />
+      <workItem from="1564099834483" duration="5498000" />
+      <workItem from="1564121586164" duration="2606000" />
+      <workItem from="1564189930926" duration="2564000" />
+      <workItem from="1564233604989" duration="5030000" />
+      <workItem from="1564275852072" duration="2771000" />
+      <workItem from="1564309552477" duration="655000" />
+      <workItem from="1564318168605" duration="3094000" />
+      <workItem from="1564361465480" duration="23787000" />
+      <workItem from="1564402450849" duration="3064000" />
+      <workItem from="1564448573447" duration="22252000" />
+      <workItem from="1564492982052" duration="1797000" />
+      <workItem from="1564531267599" duration="711000" />
+      <workItem from="1564534658475" duration="5307000" />
+      <workItem from="1564540066976" duration="10711000" />
+      <workItem from="1564575275989" duration="2441000" />
+      <workItem from="1564578207750" duration="1057000" />
+      <workItem from="1564579390973" duration="642000" />
+      <workItem from="1564580055110" duration="716000" />
+      <workItem from="1564620995680" duration="11928000" />
+      <workItem from="1564641934631" duration="5312000" />
+      <workItem from="1564649627048" duration="4016000" />
+      <workItem from="1564664827257" duration="1493000" />
+      <workItem from="1564707488193" duration="4347000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="176605000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15550596" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49776787" weight="0.32843137" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.68303573" weight="0.42973855" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4985119" weight="0.32843137" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4985119" weight="0.32843137" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.48511904" weight="0.18627451" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.3169643" side_tool="true" weight="0.42973855" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/cautrucdieukien/may-tinh.js</url>
+          <line>20</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/cautrucdieukien/may-tinh.js</url>
+          <line>21</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/cautrucdieukien/may-tinh.js</url>
+          <line>22</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/cautrucdieukien/may-tinh.js</url>
+          <line>24</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/cautrucdieukien/may-tinh.js</url>
+          <line>25</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/cautrucdieukien/may-tinh.js</url>
+          <line>28</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/cautrucdieukien/may-tinh.js</url>
+          <line>10</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/cautrucdieukien/may-tinh.js</url>
+          <line>11</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/cautrucdieukien/may-tinh.js</url>
+          <line>13</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/cautrucdieukien/may-tinh.js</url>
+          <line>14</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/cautrucdieukien/may-tinh.js</url>
+          <line>15</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/cautrucdieukien/may-tinh.js</url>
+          <line>16</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/cautrucdieukien/may-tinh.js</url>
+          <line>35</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/cautrucdieukien/may-tinh.js</url>
+          <line>40</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/cautrucdieukien/may-tinh.js</url>
+          <line>42</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/cautrucdieukien/may-tinh.js</url>
+          <line>41</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/cautrucdieukien/may-tinh.js</url>
+          <line>43</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/cautrucdieukien/may-tinh.js</url>
+          <line>44</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/cautrucdieukien/may-tinh.js</url>
+          <line>52</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/cautrucdieukien/may-tinh.js</url>
+          <line>53</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/cautrucdieukien/may-tinh.js</url>
+          <line>51</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/cautrucdieukien/may-tinh.js</url>
+          <line>54</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/cautrucdieukien/may-tinh.js</url>
+          <line>57</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/cautrucdieukien/may-tinh.js</url>
+          <line>58</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/cautrucdieukien/may-tinh.js</url>
+          <line>34</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/cautrucdieukien/may-tinh.js</url>
+          <line>33</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dientichhinhtron.html" />
+    <entry file="file://$PROJECT_DIR$/chuvihinhtron.html" />
+    <entry file="file://$PROJECT_DIR$/chuyennhietdo.html" />
+    <entry file="file://$PROJECT_DIR$/nhapdiemsinhvien.html" />
+    <entry file="file://$PROJECT_DIR$/ungdungchuyendoitiente.html" />
+    <entry file="file://$PROJECT_DIR$/ungdungmaytinh.html" />
+    <entry file="file://$PROJECT_DIR$/tinhbmi.html" />
+    <entry file="file://$PROJECT_DIR$/baitapswitchcase.html" />
+    <entry file="file://$PROJECT_DIR$/gg.html" />
+    <entry file="file://$PROJECT_DIR$/nobita.html" />
+    <entry file="file://$PROJECT_DIR$/quabong.html" />
+    <entry file="file://$PROJECT_DIR$/sample.html" />
+    <entry file="file://$PROJECT_DIR$/maytinhdongian.html" />
+    <entry file="file://$PROJECT_DIR$/../Bien,kieudulieu,toantu/ungdungchuyendoitiente.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cautrucdieukien/luyentapcautrucdieukien1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cautrucdieukien/maytinhdongian.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="87" selection-end-line="38" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cautrucdieukien/luyentapcautrucdieukien2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2618">
+          <caret line="154" selection-start-line="154" selection-end-line="154" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Bien,kieudulieu,toantu/ungdungmaytinh.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="70" column="9" selection-start-line="7" selection-end-line="70" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cautrucdieukien/nobita.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160548">
+          <caret line="9457" column="13" selection-start-line="9457" selection-start-column="13" selection-end-line="9457" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="http://localhost:63342/123/.idea/vd/cal.js">
+      <provider selected="true" editor-type-id="httpFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vd/dowhile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cautrucdieukien/maytinh.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cautrucdieukien/may-tinh.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vd/examplecalculator.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vd/cal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cautruclap/bangcuuchuong.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
