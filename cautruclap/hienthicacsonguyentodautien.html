@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>hienthicacsonguyentodautien</title>
+</head>
+<input type="text" id="txt">
+<button type="button" id="checkNumber" onclick="Check()">Kiem tra so nguyen to</button>
+<p id="display"></p>
+<body>
+<script >
+    function Check()
+    {
+    let numbers= document.getElementById("txt").value;
+    let count=0;
+    let n =2;
+if(numbers<n)
+{
+    document.getElementById("display").innerHTML="khong phai so nguyen to";
+}
+for(let i=2;i<= Math.sqrt(numbers);i++){
+    if(numbers%i==0){
+        count++;
+    }
+}
+if(count==0)
+{
+    document.getElementById("display").innerHTML="la so nguyen to";
+}
+else
+{
+    document.getElementById("display").innerHTML="khong phai so nguyen to";
+}
+    }
+</script>
+
+</body>
+</html>
