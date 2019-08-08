@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>tudien</title>
+</head>
+<body>
+<input type="text" id="txt">
+<button id="button" onclick="dictionary()"> bấm</button>
+<p id="display"></p>
+<script>
+    let eng = ["one", "two", "three"];
+    let vietnam = ["một", "hai", "ba"];
+
+    function dictionary() {
+        let input = document.getElementById("txt").value;
+        let check = true;
+        for (let i = 0; i <= eng.length; i++) {
+            if (input == eng[i]) {
+    document.getElementById("display").innerHTML=vietnam[i];
+                break;
+            } else {
+                document.getElementById("display").innerHTML="sai";
+                break;
+            }
+        }
+
+    }
+
+
+</script>
+</body>
+</html>
