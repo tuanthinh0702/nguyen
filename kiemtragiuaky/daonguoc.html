@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>dao nguoc</title>
+</head>
+<body>
+<script>
+    let array=[[1,2,3],[4,5,6],[6,7,8],[8,9,10]];
+    createArray(array);
+    function createArray(n) {
+        let newArray=[];
+        for (let i=0;i<n.length;i++) {
+            if (i%2 !== 0) {
+                n[i]=n[i].reverse();
+            }
+            newArray=newArray.concat(n[i]);
+        }
+        document.write('các phần tử của mảng mới là '+newArray);
+    }
+</script>
+</body>
+</html>

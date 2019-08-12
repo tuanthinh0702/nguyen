@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bài 2 danh sách các số nguyên</title>
+</head>
+<body>
+<script>
+    let array=[1,12,3,6,5,4,7,9,17];
+    let newArray=[];
+    let x=0;
+    for (let i=0;i<array.length;i++){
+        if(isPrime(array[i])== true){
+            newArray[x++]=array[i];
+        }
+    }
+    document.write(newArray);
+    function isPrime(n)
+    {
+        var result = true;
+        if (n < 2){
+            result = false;
+        }
+        else if (n == 2){
+            result = true;
+        }
+        else if (n % 2 == 0){
+            result = false;
+        }
+        else{
+            for (var i = 3; i < n-1; i+=2)
+            {
+                if (n % i == 0){
+                    result = false;
+                    break;
+                }
+            }
+        }
+        return result;
+    }
+
+
+
+
+    function listPrimes(numbers)
+    {
+
+            if(numbers%2==0||numbers%3==0||numbers%5==0||numbers%7==0)
+            {
+                return false;
+            }
+
+
+        return true;
+    }
+
+
+</script>
+</body>
+</html>
