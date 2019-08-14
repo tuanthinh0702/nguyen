@@ -2,9 +2,23 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>$Title$</title>
+    <title>hàm kiểm tra nguyên tố</title>
 </head>
 <body>
-$END$
+<script>
+    function isPrime(numbers) {
+    for(let i=2;i<numbers-1;i++)
+    {
+        if(numbers%2==0||numbers%3==0||numbers%5==0||numbers%7==0)
+        {
+            return false;
+        }
+
+    }
+    return true;
+}
+let a=  isPrime(10);
+document.write(a);</script>
+
 </body>
 </html>

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bai5</title>
+
+</head>
+<body>
+
+<script>
+    // let array =["Polaris", "Aldebaran","Deneb","Vega","Altair","Dubhe","Regulus"];
+    // let array1 =["Ursa Minor","Tarurus","Cygnus", "Lyra", "Aquila", "Ursa Major" , "Leo"];
+    //
+    //
+    // function fun1(user) {
+    //     user = prompt("nhập từ vào nào;");
+    //     // array.indexOf(array[i],i);
+    //     for(i=0;i<=array.length;i++)
+    //     {
+    //         if(user==array[i])
+    //         {
+    //             return alert(array1[i]);
+    //         }
+    //         else
+    //         {
+    //             return false;
+    //         }
+    //     }
+    //
+    // }
+
+    let ngoiSao =["Polaris","Aldebaran","Deneb","Vega","Altair","Dubhe","Regulus"];
+    let chomSao=["Ursa Minor","Tarurus","Cyguns","Lyra","Aquila","Ursa Major","Leo"];
+    function convert(str) {
+        for (let i=0;i<ngoiSao.length;i++) {
+            if (str.toUpperCase()==ngoiSao[i].toUpperCase()) {
+                return i;
+            }
+        }
+        return -1;
+    }
+    let string =prompt("nhập vào ngôi sao của bạn");
+    let result =convert(string);
+    if (result== -1) {
+        alert("nhập lại ngôi sao :");
+    } else {
+        alert("chòm sao của bạn là :"+chomSao[result]);
+    }
+</script>
+</body>
+</html>

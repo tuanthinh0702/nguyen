@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Viết hàm truyền vào 2 số nguyên bất kì, thực hiện đổi chỗ hai số nguyên đó.</title>
+</head>
+<body>
+<script>
+    function reverse2numbers(int1,int2) {
+        let temp;
+        if(parseInt(int1)>parseInt(int2)||parseInt(int1)==parseInt(int2)||parseInt(int1)<parseInt(int2))
+        {
+            temp=int1;
+            int1=int2;
+            int2=temp;
+            return int1 ;
+            return  int2;
+        }
+
+    }
+   let a= reverse2numbers(1,2);
+    alert(a);
+</script>
+</body>
+</html>

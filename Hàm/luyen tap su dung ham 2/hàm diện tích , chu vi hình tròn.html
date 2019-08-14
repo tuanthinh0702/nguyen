@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>hàm diện tích chu vi hình tròn</title>
+</head>
+<body>
+<script>
+    const PI=3.14;
+    let input= prompt("nhập bán kính");
+    function dientichhinhtron(radius) {
+        return radius*radius*PI;
+
+    }
+    function chuvihhinhtron(radius) {
+
+      return radius*2*PI;
+    }
+  let dt=  dientichhinhtron(input)
+   let chuvi= chuvihhinhtron(input);
+    alert("dientich"+dt+"chu vi"+chuvi);
+</script>
+</body>
+</html>

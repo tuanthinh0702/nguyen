@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Viết hàm kiểm tra xem ký tự nhập vào có phải là ký tự số không. Nếu là ký tự số hàm trả về true, ngược lại trả về false.</title>
+</head>
+<body>
+<script>
+    let a=["b", "c", "d", "f", "g", "h", "j", "k", "l", "m", "n", "p", "q", "r", "s", "t", "v", "w", "x", "y", "z","u","e","o","a","i"];
+    function checkchar(arr) {
+
+for(let i=0;i<a.length;i++)
+{
+ let char= arr.charAt(i);
+    if(char==a[i])
+    {
+        return false;
+    }
+
+}
+return true;
+
+    }
+    let b=checkchar("thinh");
+    alert(b);
+</script>
+</body>
+</html>

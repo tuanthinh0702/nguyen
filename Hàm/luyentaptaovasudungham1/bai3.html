@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bai3</title>
+</head>
+<body>
+<script>
+    function receiveparameter(para1,para2) {
+        para1=parseInt( prompt("nhap tham so thu 1"));
+        para2=parseInt(prompt("nhap tham so thu 2")) ;
+        if(para1>para2)
+        {
+            para1=parseInt( prompt("nhap tham so thu 1"));
+            para2=parseInt(prompt("nhap tham so thu 2")) ;
+        }
+        else if(para1<para2||para1==para2)
+        {
+            let parasum=para1+para2;
+            alert(parasum);
+        }
+    }
+    let a =receiveparameter();
+    alert(a);
+</script>
+</body>
+</html>
